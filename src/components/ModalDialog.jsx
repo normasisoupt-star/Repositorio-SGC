@@ -26,13 +26,19 @@ const ModalDialog = ({ open, handleClose, process, year }) => {
   const [optionDescription, setOptionDescription] = useState("");
   const [showTable, setShowTable] = useState(false);
 
-  const currentData =
+  const rawData =
     {
       "v1.0": data_v1_2024,
       "v1.1": data_v1_1_2025,
       v2: data_v2_2026,
       v3: data_v3_2026,
     }[year] || [];
+
+  // Los Documentos de Origen Externo (DOE) se encuentran registrados en data_v1_1_2025
+  const currentData =
+    process?.type === "doe" && (!rawData || rawData.filter(item => item.DEPENDENCIA === process?.title).length === 0)
+      ? data_v1_1_2025
+      : rawData;
 
   useEffect(() => {
     if (open && process) {

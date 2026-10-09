@@ -3808,7 +3808,7 @@ export const data_v1_1_2025 = [
     ESTADO: "VIGENTE",
     CODIGO_BUSQUEDA: "- -",
     ENLACE:
-      "https://drive.google.com/file/d/141wEFNhWjjmDDxojYRL536wuXdT6B3HI/view?usp=sharing",
+      "https://drive.google.com/file/d/1sdctcaj1pw7azoAWuG1aTjYXLBzdxuV_/view?usp=sharing",
   },
   //18. REGLAMENTO NACIONAL DE TRABAJOS CONDUCENTES A GRADOS Y TÍTULOS
   {

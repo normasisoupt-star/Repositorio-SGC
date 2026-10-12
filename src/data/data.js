@@ -3378,6 +3378,19 @@ export const data_v1_1_2025 = [
     ENLACE:
       "https://drive.google.com/file/d/1K7kyKrIL-hivpwWEpg8zpaXRumLONRbk/view?usp=sharing",
   },
+  {
+    DEPENDENCIA: "LEY UNIVERSITARIA Y MODIFICATORIAS",
+    TIPO_DOCUMENTO: "DOE",
+    VERSION: "- -",
+    FECHA_ELAVORACION: "2026-01-09",
+    FECHA_ACTUALIZACION: "2026-01-09",
+    DESCRIPCION:
+      "15. LEY N°32551 - CONTINUIDAD ACADÉMICA DE LOS DOCENTES",
+    ESTADO: "VIGENTE",
+    CODIGO_BUSQUEDA: "- -",
+    ENLACE:
+      "https://drive.google.com/file/d/1jSOCAfcPNPw3xkCoHOK6TVrJU2Rqhg9-/view?usp=sharing",
+  },
   //3. REGLAMENTO PARA CESE DE ACTIVIDADES DE UNIVERSIDADES Y ESCUELAS DE POSTGRADO
   {
     DEPENDENCIA:

@@ -3851,7 +3851,7 @@ export const data_v1_1_2025 = [
     ESTADO: "VIGENTE",
     CODIGO_BUSQUEDA: "- -",
     ENLACE:
-      "https://drive.google.com/file/d/1LjZ1X-FB1L72i1crjtWOhmGMjVkUift_/view?usp=sharing",
+      "https://drive.google.com/file/d/1ZC7Ox1XW-DV_VlvWW6kSeHWcujNWK4y4/view?usp=sharing",
   },
   {
     DEPENDENCIA: "DOCUMENTOS SUNEDU",

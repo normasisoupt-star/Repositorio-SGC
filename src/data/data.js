@@ -3858,12 +3858,12 @@ export const data_v1_1_2025 = [
     TIPO_DOCUMENTO: "PLAN DE SUPERVISIÓN 2024",
     VERSION: "- -",
     FECHA_ELAVORACION: "2024-09-24 15:08:14",
-    FECHA_ACTUALIZACION: "2026-01-09 15:08:14",
+    FECHA_ACTUALIZACION: "2024-09-24 15:08:14",
     DESCRIPCION: "PLAN DE SUPERVISIÓN 2024",
     ESTADO: "VIGENTE",
     CODIGO_BUSQUEDA: "- -",
     ENLACE:
-      "https://drive.google.com/file/d/1ZC7Ox1XW-DV_VlvWW6kSeHWcujNWK4y4/view?usp=sharing",
+      "https://drive.google.com/file/d/1fpyi4zNYhllhF0GTT6DOvqFL5ctb3J84/view?usp=sharing",
   },
   {
     DEPENDENCIA: "DOCUMENTOS SUNEDU",

@@ -1825,26 +1825,26 @@ export const data_v1_1_2025 = [
   {
     DEPENDENCIA: "Gestión de la Calidad",
     TIPO_DOCUMENTO: "PROCEDIMIENTOS",
-    VERSION: 1.2,
+    VERSION: 1.1,
     FECHA_ELAVORACION: "2022-05-01",
     FECHA_ACTUALIZACION: "2025-09-09",
     DESCRIPCION: "Control de Información Documentada",
     ESTADO: "VIGENTE",
     CODIGO_BUSQUEDA: "P_01_PR_01",
     ENLACE:
-      "https://drive.google.com/file/d/1I0QGJdHCSnb_2S76uK168B0qx_aWlrwm/view?usp=sharing",
+      "https://drive.google.com/file/d/1CpTTZzgE0hZjgiWTHK8kx6DveJ82-9mE/view?usp=sharing",
   },
   {
     DEPENDENCIA: "Gestión de la Calidad",
     TIPO_DOCUMENTO: "PROCEDIMIENTOS",
-    VERSION: 1.2,
+    VERSION: 1.1,
     FECHA_ELAVORACION: "2022-05-01",
     FECHA_ACTUALIZACION: "2025-09-09",
     DESCRIPCION: "Auditoría Interna",
     ESTADO: "VIGENTE",
     CODIGO_BUSQUEDA: "P_01_PR_02",
     ENLACE:
-      "https://drive.google.com/file/d/1Wz65uWuDpAW7azHaHzmt6QrU-LDa-18w/view?usp=sharing",
+      "https://drive.google.com/file/d/1GRzOjpQDi6jdZqXrfw1C-jEUBUabp5wJ/view?usp=sharing",
   },
   {
     DEPENDENCIA: "Gestión de la Calidad",
@@ -1909,14 +1909,14 @@ export const data_v1_1_2025 = [
   {
     DEPENDENCIA: "Gestión de la Calidad",
     TIPO_DOCUMENTO: "PROCEDIMIENTOS",
-    VERSION: 1.2,
+    VERSION: 1.1,
     FECHA_ELAVORACION: "2022-05-01",
     FECHA_ACTUALIZACION: "2025-09-09",
     DESCRIPCION: "No conformidades y Acciones correctivas",
     ESTADO: "VIGENTE",
     CODIGO_BUSQUEDA: "P_01_PR_03",
     ENLACE:
-      "https://drive.google.com/file/d/1v6Ubgfzbp2_D0GHAE2UceqM4PxTo75t7/view?usp=sharing",
+      "https://drive.google.com/file/d/17kXC5VHMss-MzzGgqa6Ayx-sJfd5dqId/view?usp=sharing",
   },
   {
     DEPENDENCIA: "Gestión de la Calidad",
@@ -1945,14 +1945,14 @@ export const data_v1_1_2025 = [
   {
     DEPENDENCIA: "Gestión de la Calidad",
     TIPO_DOCUMENTO: "PROCEDIMIENTOS",
-    VERSION: 1.2,
+    VERSION: 1.1,
     FECHA_ELAVORACION: "2022-05-01",
     FECHA_ACTUALIZACION: "2025-09-09",
     DESCRIPCION: "Control de Salidas No Conformes",
     ESTADO: "VIGENTE",
     CODIGO_BUSQUEDA: "P_01_PR_04",
     ENLACE:
-      "https://drive.google.com/file/d/1BwY8eR2PkbJwUsxNH_lYE9tTYCDe1fmu/view?usp=sharing",
+      "https://drive.google.com/file/d/17kXC5VHMss-MzzGgqa6Ayx-sJfd5dqId/view?usp=sharing",
   },
 
   {
